@@ -17,7 +17,7 @@ Many edits to the draft regulations are presented [Md. R. 12(20):1953-1977](/Vie
 
 ## 1986-05-13
 
-The bulk of the text proposed in [Md. R. 12(20):1953-1977](/ViewerJS#../MarylandRegister/12_20_MdReg_1953-1977.pdf) is adopted, becoming COMAR 14.15.01 [Md. R. 12(24):2352-2354](/ViewerJS#../MarylandRegister/).
+The bulk of the text proposed in [Md. R. 12(20):1953-1977](/ViewerJS#../MarylandRegister/12_20_MdReg_1953-1977.pdf) is adopted, becoming COMAR 14.15.01 [Md. R. 12(24):2352-2354](/ViewerJS#../MarylandRegister/12_24_MdReg_2352-2354.pdf).
 
 The pertinent pieces of COMAR 14.15 are given below.
 
@@ -111,15 +111,15 @@ Regulation .02 in 27.01.09 is replaced [Md. R. 21(13):1185](/ViewerJS#../Marylan
 
 ## 2009-01-30
 
-Amendments proposed affecting COMAR 27.01.01.01, 27.01.02.05 [Md. R. 36(3):280](/ViewerJS#../MarylandRegister/36_03_0280-0282.pdf).
+Amendments proposed affecting COMAR 27.01.01.01, 27.01.02.05 [Md. R. 36(3):280](/ViewerJS#../MarylandRegister/36_03_MdReg_0280-0282.pdf).
 
 ## 2009-04-06
 
-Proposal from [Md. R. 36(3):280](/ViewerJS#../MarylandRegister/36_03_0280-0282.pdf) adopted [Md. R. 36(7):529](/ViewerJS#../MarylandRegister/36_07_MdReg_0527-0528.pdf).
+Proposal from [Md. R. 36(3):280](/ViewerJS#../MarylandRegister/36_03_MdReg_0280-0282.pdf) adopted [Md. R. 36(7):529](/ViewerJS#../MarylandRegister/36_07_MdReg_0527-0528.pdf).
 
 ## 2009-06-05
 
-Many proposed changes, especially 27.01.01.B Terms Defined, 8-1 “Buffer exemption area” [Md. R. 36(12):845-847](/ViewerJS#../MarylandRegister/36_12_MdReg_0845-0847):
+Many proposed changes, especially 27.01.01.B Terms Defined, 8-1 “Buffer exemption area” [Md. R. 36(12):845-847](/ViewerJS#../MarylandRegister/36_12_MdReg_0845-0847.pdf):
 
 <pre>
   (8-1) “Buffer exemption area” means an area of land:
